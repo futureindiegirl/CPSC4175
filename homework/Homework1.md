@@ -3,11 +3,11 @@
 
 1. Projects are either canceled, over-budget, completed late, or are missing features that were originally specified.
 2. The software development cycle goes from the beginning to the point where the software is no longer being actively worked on and the software life cycle goes from the beginning until the software is no longer providing functionality for the user.
-3. Perfective maintaenance is when
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+3. Perfective maintenance is when you make changes to improve your software. An example would be when the Tumblr app added the ability to post GIFs. Before a person would have to get on a PC to do that. Adaptive maintenance is when changes are made because of new OS or laws. An example would be when Windows 10 came out. A lot of different software had to be modified to be able to work on Windows 10.
+4. Hardware is physical, so it will eventually wear away and no longer be able to be used. People cannot improve it once it has been shipped. Software, however, is virtual. It can be improved and all a user would have to do to get that improvement would be to download an update.
+5. Planning is important. If you are careful with your design, you will find faults and fix them in your design first. After you implement, the amount of faults would be much lower
+6. There is no planning stage because you cannot make a good plan until you know whayt you are developing. There is no testing phase because testing should be carried out every step of the way. There is no documentation phase because it should happen during every phase.
+7. Structured programming either focuses on attributes or on operations. Within classes, there are times when you need to focus attributes or focus on operations. When the class comes together, then both are being used.
+8. It is important for the developer to frequently interact with the users. You need to interact with the client to make sure the right features are being included, but you need to interact with the users to make sure the software is usable and accounts for human error.
+9. Once a month, I could look into new developments in the technology world. There is always something being invented or improved and it would be useful to look into these new developments.
+10. I liked the article. It was different way of developing a software than what I hear about all the time. I can somewhat relate to the idea that a problem is apparent to somebody. I once had a small experiance of that where a teacher asked us to try something and everybody was having difficulty doing it within her parameters, but I managed to do it in half the time of anyone else. Using muliple beta testers seems to work. It makes sense, many different people can find many different problems. The users are who the problem is most apparent to, so interacting with them can be very benefital.
