@@ -1,0 +1,13 @@
+# Homework 2
+## Allie McFarland
+
+1. You must analyze what the client needs.
+2. Discovering what the software should do is very important. It provides you with the functional requirements. The client might need more than that. They might need it for a particular OS or might need it with fast response times. 
+3. A software engineer is a generalist in the sense of different projects need to do different things. A software engineer needs to be somewhat familiar with the type of enviroment for the software. For example, if they were making software for a school, they would need to be familiar with how a school runs. 
+4. The book lists interviewing, giving out a questionaire, or direct observation. Interviewing might prove ineffective because the responses are given on the spot. A questionnaire might give more thought out reponses, but you cannot ask clarifying questions in response to one of the responses. Direct observation is often done with a video camera, but takes a lot of time to analyze the tapes and might be a security concern.
+5. Requirements can change in a way. A requirement you think is optional might prove to be more important later on. A client might also regect a requirement.
+6. A functional requirement is what the software does. A nonfunctional requirement is a requirement of different aspects of the platform, like it needs to be built for Linux or the reponse times need to be at least a certain speed for a certain amount of data.
+7. Structured analysis is done by drawing up a list of requirements, making a rapid prototype, and then experimenting with it until the team is sure it exhibits the key functionality. The object oriented analysis uses use case diagrams to show actions between different actors.
+8. When prototyping, it may be very tempting to reuse what you have and develop and refine it. There is also not the documentation that would normally occur. 
+9. Team Two is doing the better job because they making frequent changes. They are carefully analzing the requirements to refine what is needed. They are adding the requirements that need to be added, removing what needs to be removed, and modifying what needs to be modified.
+10. Bad requirement analysis would lead to vaguer requirements, which each member of the team may interpret in a different way. The design phase would then be harder and would result in a less detail design. The design would then result into faults when implementations occurs.
