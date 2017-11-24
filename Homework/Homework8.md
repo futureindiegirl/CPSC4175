@@ -1,4 +1,12 @@
 # Homework 8
 ## Allie McFarland
 
-1. 
+1. I would approach the chapter as a place to begin. I would keep in mind that it can be adapted as needs change. As you gain experiance, you can modify it so that it fits your needs. If I approached the chapter as simply a methodology, I would have read the sections on improvements without really focusing on it, and I miss important information.
+2. I think it is true. This and the spiral process involove going through steps and improving with each iteration. A major difference, however, is the order. The book seems to view each step as a single chuck that gets iterated and improved until it is satisfactory. In the spiral approach, the steps are done as a whole, then incremented and improved.
+3. The requirements phase is where the client's needs are determined. The analysis phase is where you analyze the requirements and refine them. The design phase is where you out line how the software will be made. The implementation phase is where you make the product following the design. The testing phase is where you test your product to ensure that it is fault free. 
+4. A software project management plan details the workflows for the development process, which members work on each task, and the deadlines. It cannot replace an explicit development process. The management plan deals more with the who, when, and what while the development process deals with the how. All of those components are important, so you shouldn't try to replace the development process with the management plan. 
+5. The book is consistant in the treatment of testing. Testing of the products of each process areas involves making sure it lines up with the specifications. A developer must test their own work. Once they are confident in their work, they send it to the SQA group for independent testing.
+6. I would put it after testing. You should have a product before doing maintenance. Once the product is tested, documentation can be finalized, which will make maintenance much easier later on.
+7. I think that the two are mutually supportive. The phases are a way to refine the process.
+8. The book discusses a process where during each phase it is refined until it is as good as it can get, then it moves on. The graphs show this. If it was instead the series of rapids, it would be different.
+9. Software improvement means improving the software itself. Software process improvement refers to adapting the process to improve it. Software process improvement is very important because something can always be improved. These improvements may save time or money.
